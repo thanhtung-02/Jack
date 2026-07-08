@@ -2,9 +2,10 @@
   "name": "员工码",
   "short_name": "员工码",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#2f3344",
-  "theme_color": "#2f3344",
+  "background_color": "#3d3e52",
+  "theme_color": "#3d3e52",
   "orientation": "portrait",
   "icons": [
     {
